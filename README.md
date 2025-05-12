@@ -121,8 +121,3 @@ Uma curva ROC com AUC de 0.90 está bem distante da linha de chance e próxima d
 **Análise de Features:**
 A aba "Analytics" permite uma exploração visual de como diferentes features (como "Income", "Age", "Spent") se distribuem entre os grupos de clientes previstos como propensos ou não. Por exemplo, observou-se que clientes com "Income" (Renda) maior tendem a ser classificados como mais propensos. Para features com outliers visuais (como "Income"), a visualização nos gráficos é ajustada (mostrando do 1º ao 99º percentil) para melhor clareza da distribuição principal.
 
-## 🚀 Próximos Passos (Sugestões)
-* Implementar o deploy do aplicativo na Streamlit Community Cloud (conforme o guia já discutido).
-* Aprofundar a análise de features na aba "Analytics" com mais opções de gráficos ou estatísticas descritivas.
-* Explorar técnicas de Cost-Sensitive Learning se os custos de Falsos Positivos e Falsos Negativos forem bem definidos.
-* Monitorar o desempenho do modelo em produção e retreiná-lo periodicamente com novos dados.
