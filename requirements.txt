@@ -1,5 +1,4 @@
 # requirements.txt
-python~=3.10.0
 streamlit>=1.30.0
 Pillow>=9.0.0
 
