@@ -197,7 +197,7 @@ def convert_df_to_csv(df_to_convert):
 
 # --- Abas ---
 st.markdown("Utilize este aplicativo para prever a propensão de compra de clientes para uma nova campanha.")
-tab_pred_csv, tab_pred_online, tab_analytics = st.tabs(["📤 Predição via CSV", "👤 Predição Online Individual", "📊 Analytics Simplificado"])
+tab_pred_csv, tab_pred_online, tab_analytics = st.tabs(["📤 Predição via CSV", "👤 Predição Online Individual", "📊 Analytics"])
 
 with tab_pred_csv:
     st.header("Predição em Lote via Arquivo CSV")
