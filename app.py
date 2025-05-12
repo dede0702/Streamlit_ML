@@ -421,7 +421,7 @@ with tab_pred_online:
 
 
 with tab_analytics: # Aba Analytics (mantida como na última versão funcional)
-    st.header("📊 Analytics Simplificado das Predições do CSV")
+    st.header("📊 Analytics das Predições do CSV")
     if st.session_state.predictions_df_full is None:
         st.info("👈 Por favor, carregue um arquivo CSV e realize as predições na aba 'Predição via CSV' para popular esta análise.")
     else:
