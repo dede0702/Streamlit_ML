@@ -1,5 +1,10 @@
 # Previsor de Propensão de Compra iFood 🛒
 
+## Integrantes
+
+- Andre Rovai        RM555848
+- Lancelot Chagas    RM554707
+
 ## 🎯 Objetivo do Projeto
 Este projeto visa desenvolver um modelo de Machine Learning para prever a propensão de clientes do iFood a comprar um novo gadget em uma futura campanha de marketing direto. O objetivo final é auxiliar na tomada de decisões para otimizar o retorno sobre o investimento em campanhas, permitindo o direcionamento eficaz aos clientes com maior probabilidade de compra.
 
